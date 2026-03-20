@@ -11,7 +11,6 @@ Vue 3 + Express.js e-commerce app
 - **Backend**: Express API, PostgreSQL, JWT, Multer uploads, routes for products/members/carts
 - **Frontend**: Vue 3 + Vite, Router, Pinia stores, Bootstrap 5, 8+ pages
 
-## 🚧 TODO
 - API service layer, error handling, validation, auth middleware
 - Component implementation, form validation, state persistence
 - API docs, tests, Docker, CI/CD
